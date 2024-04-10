@@ -1,0 +1,8 @@
+nav{background-image: url(banner1.png);border-bottom:solid 7px rgb(23, 29, 31);border-left:solid 5px rgb(39, 58, 65);border-right:solid 5px rgb(43, 53, 56);}
+body{background-image: url(image\ \(1\).png)}
+.section1{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size: 40px;text-align: center; color: aliceblue;}
+a{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: white; text-decoration: none;}
+ul{color:rgb(255, 255, 255)}
+p,h2,h3,h4{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+hr{width: 500px; border-color: black;}
+.section3{background-image: url(banner1.png); width: 783px;}
