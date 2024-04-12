@@ -1,8 +1,17 @@
-nav{background-image: url(banner1.png);border-bottom:solid 7px rgb(23, 29, 31);border-left:solid 5px rgb(39, 58, 65);border-right:solid 5px rgb(43, 53, 56);}
-body{background-image: url(image\ \(1\).png)}
+nav{background-image: url(banner1.png);}
+body{background-image: url(background.png);color:white;text-shadow: 2px 1px rgb(0, 0, 0)}
 .section1{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size: 40px;text-align: center; color: aliceblue;}
 a{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: white; text-decoration: none;}
 ul{color:rgb(255, 255, 255)}
-p,h2,h3,h4{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+p,h2,h3,h4,ol{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 hr{width: 500px; border-color: black;}
-.section3{background-image: url(banner1.png); width: 783px;}
+.section3{background-image: url(background.png) wit; width: 783px;}
+.img1,.img2{border:dashed 10px rgb(26, 27, 27); border-style:double;}
+.section4,.section5,.section6,.section7,.section8{transform: skew(-15deg);background-image: url(banner3.png);width: 1700px;text-align: center;}
+.p1,.h2_1{transform: skew(15deg);}
+.h2_1{font-size: 30px;}
+.p1{font-size: 25px;}
+.img2{transform: skew(15deg);width: 500px;}
+.section_image1{transform: skew(-15deg);}
+.a1{text-decoration: underline; color: rgb(158, 81, 247);}
+.p2{font-size: 35px;text-align: center; background-image: url(banner1.png);}
