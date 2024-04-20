@@ -1,17 +1,18 @@
 nav{background-image: url(banner1.png);}
-body{background-image: url(background.png);color:white;text-shadow: 2px 1px rgb(0, 0, 0)}
-.section1{font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size: 40px;text-align: center; color: aliceblue;}
-a{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; color: white; text-decoration: none;}
+body{background-image: url(image\ \(2\)\ \(1\).png);color:white;text-shadow: 2px 1px rgb(0, 0, 0);background-attachment: fixed;font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif}
+.section1{font-size: 40px;text-align: center; color: aliceblue}
+a{color: white; text-decoration: none;}
 ul{color:rgb(255, 255, 255)}
 p,h2,h3,h4,ol{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 hr{width: 500px; border-color: black;}
-.section3{background-image: url(background.png) wit; width: 783px;}
 .img1,.img2{border:dashed 10px rgb(26, 27, 27); border-style:double;}
-.section4,.section5,.section6,.section7,.section8{transform: skew(-15deg);background-image: url(banner3.png);width: 1700px;text-align: center;}
+.section4,.section5,.section6,.section7,.section8,.top5acc{transform: skew(-15deg);background-image: url(banner3.png);width: 1700px;text-align: center;margin:auto}
 .p1,.h2_1{transform: skew(15deg);}
 .h2_1{font-size: 30px;}
 .p1{font-size: 25px;}
 .img2{transform: skew(15deg);width: 500px;}
 .section_image1{transform: skew(-15deg);}
 .a1{text-decoration: underline; color: rgb(158, 81, 247);}
-.p2{font-size: 35px;text-align: center; background-image: url(banner1.png);}
+.p2,.Top5acchead{font-size: 35px;text-align: center; background-image: url(banner1.png);}
+.section2{background-image: url(banner3.png);width: 900px;transform: skew(-15deg);margin:auto}
+.skibidi{transform: skew(15deg);text-shadow:none; font-size: 21px;text-align: center;}
